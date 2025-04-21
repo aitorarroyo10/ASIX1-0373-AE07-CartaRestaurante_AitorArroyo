@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+
+    <!-- Menús entrantes -->
+
+    <menu plato="Entrante">
+        <title>Ensaladilla rusa</title>
+        <description tipo="Vegetales/hortalizas">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title>Croquetas</title>
+        <description tipo="Aperitivo">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title>Patatas bravas</title>
+        <description tipo="Aperitivo">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title>Huevos rotos</title>
+        <description tipo="Proteína">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title>Gambas</title>
+        <description tipo="Crustáceo/molusco">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title>Empanadas</title>
+        <description tipo="Horneado">
+        </description>
+    </menu>
+
+    <menu plato="Entrante">
+        <title></title>
+        <description tipo="Horneado">
+        </description>
+    </menu>
+
+    <!-- Menús principales -->
+
+    <menu plato="Principal">
+        <title>Arroz con mariscos</title>
+        <description tipo="Arroces">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Paella</title>
+        <description tipo="Arroces">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Canelones</title>
+        <description tipo="Mediterráneo">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Lassagna</title>
+        <description tipo="Mediterráneo">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Espaguetis</title>
+        <description tipo="Mediterráneo">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Macarrones</title>
+        <description tipo="Mediterráneo">
+        </description>
+    </menu>
+    
+    <menu plato="Principal">
+        <title>Pollo a la plancha con patatas fritas</title>
+        <description tipo="Plato combinado">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Butifarra con patatas fritas</title>
+        <description tipo="Plato combinado">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Hamburguesa con patatas fritas</title>
+        <description tipo="Plato combinado">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Calamares a la romana con ensalada</title>
+        <description tipo="Plato combinado">
+        </description>
+    </menu>
+
+    <menu plato="Principal">
+        <title>Cordero asado con hierbas</title>
+        <description tipo="Plato combinado">
+        </description>
+    </menu>
+
+    <!-- Postres -->
+
+    <menu plato="Postre">
+        <title>Natilla</title>
+        <description tipo="Con cuchara">
+        </description>
+    </menu>
+
+    <menu plato="Postre">
+        <title>Flan de huevo</title>
+        <description tipo="Con cuchara">
+        </description>
+    </menu>
+
+    <menu plato="Postre">
+        <title>Arroz con leche</title>
+        <description tipo="Con cuchara">
+        </description>
+    </menu>
+
+    <menu plato="Postre">
+        <title>Tarta de queso</title>
+        <description tipo="Con tenedor">
+        </description>
+    </menu>
+
+    <menu plato="Postre">
+        <title>Crema catalana</title>
+        <description tipo="Con cuchara">
+        </description>
+    </menu>
+
+    <menu plato="Postre">
+        <title>Helado</title>
+        <description tipo="Con cuchara">
+        </description>
+    </menu>
+</menus>

@@ -1,0 +1,75 @@
+*{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 375;
+    font-style: normal;
+  }
+  
+body {
+    margin: 0;
+    padding: 0;
+    height: 5vh;
+    background-image: url('../imgs/fondocarta.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+table {
+    background-color: transparent;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: transparent;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    font-weight: bold;
+}
+
+.menu-container {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Rubik Vinyl", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Entrantes th{
+    color: green;
+    font-family: "Rubik Vinyl", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Principales th{
+    color: red;
+    font-family: "Rubik Vinyl", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Postres th{
+    color: pink;
+    font-family: "Rubik Vinyl", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
